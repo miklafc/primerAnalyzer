@@ -1,0 +1,65 @@
+body {
+    background-color: #333333;
+}
+
+#DNA  {
+  font-family: monospace;
+  font-size: xx-large;
+  color: darkgray;
+  position: absolute;
+  left: 1%;
+  top: 1%;
+}
+
+#trimmedDNA {
+    font-family: monospace;
+    fonr-size: xx-large;
+    color: darkgray;
+    position: absolute;
+    left: 1%;
+    top: 25%;
+}
+
+#Comp {
+  font-family: monospace;
+  color: darkgray;
+  position: absolute;
+  left: 1%;
+  top: 50%;
+}
+
+#updated {
+    font-family: monospace;
+    color: #b9babf;
+    position: absolute;
+    left: 1%;
+    top: 35%;
+}
+
+#updated2 {
+    font-family: monospace;
+    color: #b9babf;
+    position: absolute;
+    left: 1%;
+    top: 60%;
+}
+
+#updated3 {
+    font-family: monospace;
+    color: #b9babf;
+    position: absolute;
+    left: 1%;
+    top: 10%;
+}
+
+#content {
+    display:none
+}
+
+#content2 {
+    display:none
+}
+
+#content3 {
+    display:none
+}

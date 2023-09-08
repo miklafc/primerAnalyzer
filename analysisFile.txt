@@ -1,0 +1,25 @@
+[GENE_NAME] [DNA_CODE] [FIRST_NAME] [LAST_NAME]
+[GENE_NAME] [chromosome-location-Ref-Alt-zyg]
+[GENE_NAME] [TRANSCRIPT]
+
+[ RAW SEQUENCE ]:
+CTCTTGTCTTTAATCTGTCCAATTTCCTAATCTCTGTGATTTCTGCCCTGCAGTGAATTTTGAAGATTGCACCGGTCGACAAAGGACAGCCTATTTTTCCCTCGACACCCGATTCAAAGTGGGCACAGATGGTGTGATTACAGTCAAAAGGCCTCTACGGTTTCATAACCCACAGATCCATTTCTTGGTCTACGCCTGGGACTCCACCTACAGAAAGTTTTCCACCAAAGTCACGCTGAATACAGTGGGG_C_ACCACCACCGCCCCCCGCCCCATCAGGTATGTTGGCATTTTTCTGAGAAGTTCGCTGTTGTTTTAGTGCGCTGTCTAATCCAGGTTTCTCAGCCTTGGTACCGTTGACATTTTGGGCTGGATGATTTTGTGTTGTAGGGGTTGTCCTGTGCACTGTGTAGGATGTTTAGCAAGCATCCCTGGCCTTAACTGGTTAGACACCAGTAGCACTTCCACCAGTTATGACAACCCAAAGTATCTCCACATGTTGC
+
+Length of the DNA sequence: 306 bp
+
+[ PRIMER SUMMARY ]:
+Left primer sequence: ACAGTCAAAAGGCCTCTACGG
+Left primer sequence length: 21 bp
+Left primer GC content: 52.38 %
+Melting temperature of the left primer: 62.17°C
+Right primer sequence (N): AACCAGTTAAGGCCAGGGATG
+Right primer sequence (C): CATCCCTGGCCTTAACTGGTT
+Right primer sequence length: 21 bp
+Right primer GC content: 52.38 %
+Melting temperature of the right primer: 62.17°C
+
+{Go to the https://genome.ucsc.edu/cgi-bin/hgPcr and perform the In-Silico PCR and paste it here!}
+
+AACCAGTTAAGGCCAGGGATGcttgctaaacatcctacacagtgcacaggacaacccctacaacacaaaatcatccagcccaaaatgtcaacggtaccaaggctgagaaacctggattagacagcgcactaaaacaacagcgaacttctcagaaaaatgccaacatacctgatggggcggggggcggtggtggtGccccactgtattcagcgtgactttggtggaaaactttctgtaggtggagtcccaggcgtagaccaagaaatggatctgtgggttatgaaaCCGTAGAGGCCTTTTGACTGT
+
+********************************************************************************
