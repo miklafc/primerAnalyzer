@@ -9,6 +9,10 @@ sudo apt update
 pip install progress
 
 git clone https://github.com/miklafc/primerAnalyzer.git
+
+cd primerAnalyzer/
+
+chmod +x primerAnalyzerV2.sh
 ```
 
 ## Installing primer3
