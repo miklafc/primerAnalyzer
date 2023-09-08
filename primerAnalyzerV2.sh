@@ -38,7 +38,8 @@ fi
 read -p "Second step of the analysis done! Press ENTER to continue!"
 cd -
 cd primer3/src
-./primer3_core /home/miklavz/primerAnalyzer/primer3file
+#change the path to the primer3file to where it is located on your machine
+./primer3_core /home/primerAnalyzer/primer3file
 cd -
 cd primerAnalyzer
 read -p "Third step of the analysis done! Press ENTER to continue!"
