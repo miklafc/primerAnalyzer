@@ -32,6 +32,11 @@ Open the shell script with a text editor and change the path to the primer3file 
 
 After you have changed the location of the primer3file you are good to go.
 
+## Running the pipeline
+
+```
+./primerAnalyzerV2.sh
+```
 
 ## How to use the tool
 
