@@ -1,7 +1,7 @@
 # primerAnalyzerV2
 Simple pipeline written in shell script which uses simple python scripts with the combination of already existing tool primer3, which helps user select correct primer sequences while doing the Sanger DNA sequencing.
 
-## Installing
+## Installing primerAnalyzerV2
 ```
 sudo apt update
 
@@ -11,4 +11,6 @@ git clone https://github.com/miklafc/primerAnalyzer.git
 
 
 ```
+## Installing primer3
 
+See [primer3](https://github.com/primer3-org/primer3) for instuctions on how to install primer3
