@@ -16,3 +16,12 @@ git clone https://github.com/miklafc/primerAnalyzer.git
 See [primer3](https://github.com/primer3-org/primer3) for instuctions on how to install primer3.
 
 **Note:** It's important that both primerAnalyzer and primer3 directories are in the same location (for example both of them are in the home directory in my case).
+
+## Altering the shell script
+
+After you have successfully installed both tools you are going to have to alter the shell script. See bellow.
+
+open the shell script with a text editor and change the path to the primer3file to where it actually is located on your machine.
+
+file:///home/miklavz/Pictures/Screenshots/Screenshot%20from%202023-09-08%2014-16-47.png
+
