@@ -4,3 +4,5 @@ Simple pipeline written in shell script which uses simple python scripts with th
 ## Installing
 
 `sudo apt update`
+`git clone https://github.com/miklafc/primerAnalyzer.git`
+
