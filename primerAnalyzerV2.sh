@@ -15,7 +15,7 @@ echo "    This is a simple python script tool for checking whether the primers a
 echo "                     designed for your DNA sequence of choice.                            "
 echo "=========================================================================================="
 date
-cd primerAnalysis
+cd primerAnalyzer
 python3 obtainingDNA.py
 if [ -s rawsequence.txt ]; then
 echo ""
@@ -38,9 +38,9 @@ fi
 read -p "Second step of the analysis done! Press ENTER to continue!"
 cd -
 cd primer3/src
-./primer3_core /home/miklavz/primerAnalysis/primer3file
+./primer3_core /home/miklavz/primerAnalyzer/primer3file
 cd -
-cd primerAnalysis
+cd primerAnalyzer
 read -p "Third step of the analysis done! Press ENTER to continue!"
 python3 primerChecking.py
 if [ -s leftPrimer.txt ] && [ -s rightPrimer.txt ]; then
