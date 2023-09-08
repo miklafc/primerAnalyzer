@@ -8,8 +8,6 @@ sudo apt update
 pip install progress
 
 git clone https://github.com/miklafc/primerAnalyzer.git
-
-
 ```
 ## Installing primer3
 
@@ -24,3 +22,7 @@ After you have successfully installed both tools you are going to have to alter 
 open the shell script with a text editor and change the path to the primer3file to where it actually is located on your machine.
 
 ![Screenshot](https://raw.githubusercontent.com/miklafc/primerAnalyzer/main/Screenshot%20from%202023-09-08%2014-16-47.png)
+
+After you have changed the location of the primer3file you are good to go.
+
+Open the [primerAnalyzerV2_manual]()
