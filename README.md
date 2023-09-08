@@ -43,5 +43,5 @@ After you have changed the location of the primer3file you are good to go.
 Open the *primerAnalyzer_manual.pdf* to follow the example how primers are designed.
 
 
-**Note:** *When opening the output.html* use Firefox browser to get the correct visual.
+**Note:** When opening the *output.html* use Firefox browser to get the correct visual.
 
