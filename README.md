@@ -23,4 +23,4 @@ After you have successfully installed both tools you are going to have to alter 
 
 open the shell script with a text editor and change the path to the primer3file to where it actually is located on your machine.
 
-![Screenshot](file:///home/miklavz/Pictures/Screenshots/Screenshot%20from%202023-09-08%2014-16-47.png)
+![Screenshot]([file:///home/miklavz/Pictures/Screenshots/Screenshot%20from%202023-09-08%2014-16-47.png](https://raw.githubusercontent.com/miklafc/primerAnalyzer/main/Screenshot%20from%202023-09-08%2014-16-47.png)https://raw.githubusercontent.com/miklafc/primerAnalyzer/main/Screenshot%20from%202023-09-08%2014-16-47.png)
