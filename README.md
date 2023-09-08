@@ -25,4 +25,7 @@ open the shell script with a text editor and change the path to the primer3file 
 
 After you have changed the location of the primer3file you are good to go.
 
-Open the [primerAnalyzerV2_manual](https://github.com/miklafc/primerAnalyzer/blob/main/primerAnalyzerV2_manual.pdf)
+## How to use the tool
+
+Open the *primerAnalyzer_manual.pdf* to follow the example how primers are designed.
+
