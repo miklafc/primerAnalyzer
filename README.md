@@ -4,6 +4,11 @@ Simple pipeline written in shell script which uses simple python scripts with th
 ## Installing
 ```
 sudo apt update
+
+pip install progress
+
 git clone https://github.com/miklafc/primerAnalyzer.git
+
+
 ```
 
