@@ -47,5 +47,5 @@ Open the *primerAnalyzer_manual.pdf* to follow the example how primers are desig
 
 ## Tool flowchart
 
-![Screenshot](https://github.com/miklafc/primerAnalyzer/blob/main/Flowchart.png)
+![Screenshot](https://github.com/miklafc/primerAnalyzer/blob/main/Screen%20Shot%202023-09-12%20at%2020.39.36.png?raw=true)
 
