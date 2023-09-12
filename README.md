@@ -45,3 +45,7 @@ Open the *primerAnalyzer_manual.pdf* to follow the example how primers are desig
 
 **Note:** When opening the *output.html* use Firefox browser to get the correct visual.
 
+## Tool flowchart
+
+![Screenshot](https://github.com/miklafc/primerAnalyzer/blob/main/Flowchart.png)
+
